@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Tamagotochi.Controllers
+namespace Tamagotchi.Controllers
 {
   public class HomeController : Controller
   {
